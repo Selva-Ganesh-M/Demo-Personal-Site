@@ -1,0 +1,152 @@
+body {
+  margin: 0 0 0 0;
+  /* background-color: blue; */
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Merriweather', serif;
+}
+
+a{
+  color: #11999E;
+  text-decoration: underline;
+}
+
+footer{
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+.btn{
+  padding: 10px 10px;
+  text-decoration: none;
+  background-color: #66BFBF;
+  color: white;
+  border-radius: 4%;
+  /* margin-top: 30px; */
+}
+
+.last-paragraph{
+  margin-bottom: 20px;
+}
+
+.btn:hover{
+  padding: 15px;
+  /* transform: scale(2); */
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #66BFBF;
+}
+
+.bottom-container{
+  padding-top: 30px;
+  padding-bottom: 50px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+hr{
+  border: none;
+  border-top: 10px dotted #dcdfd7;
+  width: 10%;
+}
+
+.upper-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  font-size: 35px;
+}
+
+.middle-container {
+  padding-bottom: 50px;
+}
+
+
+
+.bio {
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+.middle-bio-p {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.middle-bio {
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+
+.skills {
+  width: 50%;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.skill-row-1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
+  line-height: 2;
+}
+
+.skill-row-2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
+  line-height: 2;
+}
+
+.cursive {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 100px;
+  left: 60%;
+}
+
+.cloud2 {
+  position: absolute;
+}
+
+.computer-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 10px 0 10px;
+}
+
+.my-img {
+  border-radius: 50%;
+}
